@@ -1,1 +1,1 @@
-# Sem-3 Resources
+# EC101 class notes
